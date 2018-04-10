@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.htm
+Sitemap: https://florencejaulin.github.io/sitemap.xml
+
