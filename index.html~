@@ -4,9 +4,9 @@
 <head>
 <title>Atelier restauration art</title>
 <meta name="google-site-verification" content="Lu61jvY4L48D3_Y1r-12flOgmACni58IaNy_hiPnKpg" />
-<meta name="description" content="Florence Jaulin, restauratrice de sculptures, objets d'art √† Brest. Pour particuliers et institutions."/>
-<meta name="keywords" content="Florence, Jaulin, Gache, restauration, restaurer,conservation, sculptures,sculpture, objet d'art, cadre, retable, ancien, ancienne, antiquit√©, patrimoine, brest,
- bretagne, polychromie, bois dor√©, bois, bois polychrome, pierre, marbre, pl√¢tre, dorure, terre-cuite, faience, fa√Øence, ivoire, finist√®re, finistere" />
+<meta name="description" content="Florence Jaulin, restauratrice de sculptures, objets d'art ‡ Brest. Pour particuliers et institutions."/>
+<meta name="keywords" content="Florence, Jaulin, Gache, restauration, restaurer,conservation, sculptures,sculpture, objet d'art, cadre, retable, ancien, ancienne, antiquitÈ, patrimoine, brest,
+ bretagne, polychromie, bois dorÈ, bois, bois polychrome, pierre, marbre, pl‚tre, dorure, terre-cuite, faience, faÔence, ivoire, finistËre, finistere" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="w3.css">
@@ -18,10 +18,10 @@
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="#home" class="w3-bar-item w3-button"><b>ATELIER DE RESTAURATION DE SCULPTURES ET OBJETS D'ART </b> Florence Jaulin</a>
+    <a href="#home" class="w3-bar-item w3-button"><b>ATELIER DE RESTAURATION DE SCULPTURES </b> Florence Jaulin</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
-      <a href="#id_materiaux" class="w3-bar-item w3-button">Mat√©riaux</a>
+      <a href="#id_materiaux" class="w3-bar-item w3-button">MatÈriaux</a>
       <a href="#id_traitements" class="w3-bar-item w3-button">Traitements</a>
       <a href="#id_contact" class="w3-bar-item w3-button">Contact</a>
     </div>
@@ -30,7 +30,7 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="w3-image" src="AubignyG.jpg" alt="tympan de l'√©glise d'Aubigny" width="1500" height="800">
+  <img class="w3-image" src="AubignyG.jpg" alt="tympan de l'Èglise d'Aubigny" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
     <h1 class="w3-xxlarge w3-text-white"> <span class="w3-hide-small w3-text-light-grey"><b>Conservation-restauration des sculptures et retables, 
     cadres et objets d'art </b></span></h1>
@@ -42,14 +42,14 @@
 
   <!-- Materiaux Section -->
   <div class="w3-container w3-padding-32" id="id_materiaux">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Les mat√©riaux trait√©s √† l'atelier</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Les matÈriaux traitÈs ‡ l'atelier</h3>
   </div>
 
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Dorure</div>
-        <img src="dorureG.png" alt="bois dor√© sur un cadre de miroir" style="width:80%;height:80%">
+        <img src="dorureG.png" alt="bois dorÈ sur un cadre de miroir" style="width:80%;height:80%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
@@ -60,14 +60,14 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Terre-cuite et fa√Øence</div>
+        <div class="w3-display-topleft w3-black w3-padding">Terre-cuite et faÔence</div>
         <img src="faienceG1.png" alt="terrasse d'une ronde-bosse en faience" style="width:80%;height:80%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Marbre</div>
-        <img src="marbreG.png" alt="d√©tail du tombeau du Roi Ren√©" style="width:80%;height:80%">
+        <img src="marbreG.png" alt="dÈtail du tombeau du Roi RenÈ" style="width:80%;height:80%">
       </div>
     </div>
   </div>
@@ -76,25 +76,25 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Pierre</div>
-        <img src="pierreG.png" alt="mascaron du mus√©e de Nantes" style="width:80%;height:80%">
+        <img src="pierreG.png" alt="mascaron du musÈe de Nantes" style="width:80%;height:80%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Polychromie</div>
-        <img src="polychromieG.png" alt="d√©tail du retable d'Aubigny" style="width:80%;height:80%">
+        <img src="polychromieG.png" alt="dÈtail du retable d'Aubigny" style="width:80%;height:80%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Pl√¢tre</div>
+        <div class="w3-display-topleft w3-black w3-padding">Pl‚tre</div>
         <img src="platreG.png" alt="maquette du lion de Belfort" style="width:80%;height:80%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Bois</div>
-        <img src="boisG.png" alt="Mathurin, chapelle Saint S√©bastien de Garnilis" style="width:80%;height:80%">
+        <img src="boisG.png" alt="Mathurin, chapelle Saint SÈbastien de Garnilis" style="width:80%;height:80%">
       </div>
     </div>
   </div>
@@ -107,37 +107,37 @@
 
   <!-- Traitements Section -->
   <div class="w3-container w3-padding-32" id="id_traitements">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Les traitements de conservation-restauration pratiqu√©s √† l'atelier</h3>
-    <p>Dipl√¥m√©e en 1998 du Master en conservation-restauration des ≈ìuvres sculpt√©es (DNS de l'ESBAT de Tours), je suis habilit√©e √† intervenir sur les ≈ìuvres d'art prot√©g√©es et les collections des Mus√©es de France. Je pratique 
-    la conservation-restauration suivant la d√©ontologie de cette profession, en veillant √† la conservation des mat√©riaux originaux 
-    et √† la r√©versibilit√© des interventions.<br> Install√©e √† Brest depuis 2009, je travaille, √† l'atelier ou in situ, sur des 
-     ≈ìuvres sculpt√©es provenant des collections publiques¬†(mus√©es, patrimoine class√© et inscrit au titre des Monuments Historiques, 
-     patrimoine des collectivit√©s locales)  et des collections priv√©es (particuliers et marchands d'art).<br>En compl√©ment, mon CAP de menuiserie me permet de r√©pondre aux demandes de mes clients pour la pr√©sentation des ≈ìuvres : socles, cadres, coffrets ou pr√©sentoirs.<br>Quelques exemples de traitements r√©alis√©s √† l'atelier :
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Les traitements de conservation-restauration pratiquÈs ‡ l'atelier</h3>
+    <p>Depuis 1998, date de l'obtention de mon DiplÙme National SupÈrieur en conservation-restauration des úuvres sculptÈes (ESBA de Tours), je pratique 
+    la conservation-restauration suivant la dÈontologie de cette profession, en veillant ‡ la conservation des matÈriaux originaux 
+    et ‡ la rÈversibilitÈ des interventions.<br> InstallÈe ‡ Brest depuis 2009, je travaille, ‡ l'atelier ou in situ, sur des 
+     úuvres sculptÈes provenant des collections publiques†(musÈes, patrimoine classÈ et inscrit au titre des Monuments Historiques, 
+     patrimoine des collectivitÈs locales)  et des collections privÈes (particuliers et marchands d'art).<br>Quelques exemples de traitements rÈalisÈs ‡ l'atelier :
     </p>
   </div>
 
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="collageG.png" alt="collage d'un pl√¢tre" style="width:100%">
-      <h3>R√©assemblage et collage</h3>
-      <p>Remontage, par collage simple et goujonnage, des fragments de la "Femme √† la coquille",
-Mus√©e des beaux-arts d'Angers. </p>
+      <img src="collageG.png" alt="collage d'un pl‚tre" style="width:100%">
+      <h3>RÈassemblage et collage</h3>
+      <p>Remontage, par collage simple et goujonnage, des fragments de la "Femme ‡ la coquille",
+MusÈe des beaux-arts d'Angers, intervention en 2001. </p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="restitutionsG.png" alt="restitution de forme sur l'angle d'un cadre" style="width:100%">
       <h3>Restitution de formes</h3>
-      <p>Restitution, par moulage, de l'angle d'un cadre, collection particuli√®re.</p>
+      <p>Restitution, par moulage, de l'angle d'un cadre, collection particuliËre, intervention en 2015.</p>
       <br>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="gelPelableG.png" alt="gel pelable sur un pl√¢tre" style="width:100%">
+      <img src="gelPelableG.png" alt="gel pelable sur un pl‚tre" style="width:100%">
       <h3>Nettoyage par gel pelable</h3>
-      <p>Gel en cours de pelage sur un buste en pl√¢tre du Mus√©e Joseph Denais (Beaufort-en-Vall√©e).</p>
+      <p>Gel en cours de pelage sur un buste en pl‚tre du MusÈe Joseph Denais (Beaufort-en-VallÈe, 49), intervention en 2004.</p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="consolidation.png" alt="injection de consolidant dans un bois alt√©r√©" style="width:100%">
-      <h3>Consolidation des mat√©riaux</h3>
-      <p>Injection de consolidant dans un bois alt√©r√©, collection particuli√®re.</p><br>
+      <img src="consolidation.png" alt="injection de consolidant dans un bois altÈrÈ" style="width:100%">
+      <h3>Consolidation des matÈriaux</h3>
+      <p>Injection de consolidant dans un bois altÈrÈ, collection particuliËre, intervention en 2011.</p><br>
     </div>
    
     
@@ -156,23 +156,23 @@ Mus√©e des beaux-arts d'Angers. </p>
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="desinsectisation.png" alt="anoxie statique" style="width:100%">
-      <h3>Traitement curatif et pr√©ventif contre les insectes xylophages</h3>
-      <p>La sculpture est plac√©e dans une poche √©tanche aux gaz pour pratiquer une anoxie. Vierge de Piti√©, chapelle Saint S√©bastien de Garnilis, Briec (29).</p>
+      <h3>Traitement curatif et prÈventif contre les insectes xylophages</h3>
+      <p>La sculpture est placÈe dans une poche Ètanche aux gaz pour pratiquer une anoxie. Vierge de PitiÈ, chapelle Saint SÈbastien de Garnilis, Briec (29), intervention en 2016.</p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="nettoyagePloug.png" alt="nettoyage de la dorure du cadre d'un tableau du Mus√©e de la Fraise et du Patrimoine, Plougastel-Daoulas" style="width:100%">
+      <img src="nettoyagePloug.png" alt="nettoyage de la dorure du cadre d'un tableau du MusÈe de la Fraise et du Patrimoine, Plougastel-Daoulas" style="width:100%">
       <h3>Nettoyage par solvant</h3>
-      <p> Nettoyage par compresse chimique de la dorure du cadre du tableau de Marie Piriou "Les Petites Rieuses", Mus√©e de la fraise et du patrimoine, Plougastel-Daoulas (29). </p>
+      <p> Nettoyage par compresse chimique de la dorure du cadre du tableau de Marie Piriou "Les Petites Rieuses", MusÈe de la fraise et du patrimoine, Plougastel-Daoulas (29), intervention en 2016. </p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="REFIXAGEg.png" alt="Refixage de la polychromie du relief du Mus√©e d'Histoire de Nantes" style="width:100%">
+      <img src="REFIXAGEg.png" alt="Refixage de la polychromie du relief du MusÈe d'Histoire de Nantes" style="width:100%">
       <h3>Refixage de polychromie</h3>
-      <p>Refixage de la polychromie d'un relief roman provenant de la Cath√©drale de Nantes, conserv√© au Mus√©e d'histoire de Nantes.</p>
+      <p>Refixage de la polychromie d'un relief roman provenant de la CathÈdrale de Nantes, conservÈ au MusÈe d'histoire de Nantes, intervention en 2004.</p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="degagementG.png" alt="couche ancienne de polychromie en cours de d√©gagement" style="width:100%">
-      <h3>Etude et d√©gagement de polychromie</h3>
-      <p>Aspect d'une couche ancienne de polychromie, assez us√©e, en cours de d√©gagement au scalpel. Ronde-bosse en bois polychrome, XVe si√®cle, collection particuli√®re.</p>
+      <img src="degagementG.png" alt="couche ancienne de polychromie en cours de dÈgagement" style="width:100%">
+      <h3>Etude et dÈgagement de polychromie</h3>
+      <p>Aspect d'une couche ancienne de polychromie, assez usÈe, en cours de dÈgagement au scalpel. Ronde-bosse en bois polychrome, XVe siËcle, collection particuliËre, intervention en 2015.</p>
     </div> 
     
        
@@ -186,24 +186,24 @@ Mus√©e des beaux-arts d'Angers. </p>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="DORURE.png" alt="dorure neuve sur le retable d'Aubigny" style="width:100%">
       <h3>Dorure</h3>
-      <p>Dorure neuve r√©alis√©e sur des moulures sculpt√©es, elles-m√™me √©galement restitu√©es, sur le retable nord de l'√©glise d'Aubigny (85).</p>
+      <p>Dorure neuve rÈalisÈe sur des moulures sculptÈes, elles-mÍme Ègalement restituÈes, sur le retable nord de l'Èglise d'Aubigny (85), intervention en 2005.</p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="armatureG.png" alt="armatures du Lion de Belfort" style="width:100%">
       <h3>Traitement des armatures</h3>
-      <p>Armature oxyd√©e induisant des fissures dans le pl√¢tre. 
-      L'oxydation est √† traiter avant de consolider le pl√¢tre et boucher les fissures, 
-      Maquette du "Lion de Belfort", mus√©e Bartholdi de Colmar.</p>
+      <p>Armature oxydÈe induisant des fissures dans le pl‚tre. 
+      L'oxydation est ‡ traiter avant de consolider le pl‚tre et boucher les fissures, 
+      Maquette du "Lion de Belfort", musÈe Bartholdi de Colmar, intervention en 2003.</p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="doublageG.png" alt="doublage du cadre Poll√®s, Biblioth√®que des Champs Libres, Rennes" style="width:100%">
+      <img src="doublageG.png" alt="doublage du cadre PollËs, BibliothËque des Champs Libres, Rennes" style="width:100%">
       <h3>Doublage, Renforts</h3>
-      <p>Mise en place d'un doublage en fibre de verre au revers du cadre Poll√®s afin de renforcer sa structure. Cadre Poll√®s conserv√© √† la Biblioth√®que des Champs Libres, Rennes.</p>
+      <p>Mise en place d'un doublage en fibre de verre au revers du cadre PollËs afin de renforcer sa structure. Cadre PollËs conservÈ ‡ la BibliothËque des Champs Libres, Rennes, intervention en 2016.</p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="retouchesG.png" alt="retouches color√©es sur une fa√Øence" style="width:100%">
-      <h3>Retouches color√©es</h3>
-      <p>Restauration illusioniste de l'√©mail sur la carnation d'une ronde-bosse en fa√Øence, collection particuli√®re.</p>
+      <img src="retouchesG.png" alt="retouches colorÈes sur une faÔence" style="width:100%">
+      <h3>Retouches colorÈes</h3>
+      <p>Restauration illusioniste de l'Èmail sur la carnation d'une ronde-bosse en faÔence, collection particuliËre, intervention en 2014.</p>
     </div>
     
     
@@ -221,33 +221,33 @@ Mus√©e des beaux-arts d'Angers. </p>
 
   <!-- Contact Section -->
   <div class="w3-container w3-padding-32" id="id_contact">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Venir √† l'atelier</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Venir ‡ l'atelier</h3>
     <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="15juin19.jpg" alt="vue de l'atelier" style="width:100%"><br><br>
+      <img src="atelier.png" alt="vue de l'atelier" style="width:100%"><br><br>
       <img src="atelier2.png" alt="Florence Jaulin-Gache" style="width:100%">
       <h3></h3>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="Situation.png" alt="plan de Recouvrance" style="width:200%">
-      <h3><em>Sur rendez-vous au</em> <br><strong>14 rue Pierre Loti √† Brest<br>06 43 87 76 59<br>florencejaulin@gmail.com</strong></em><br>Siret 420 480 493 00048 </h3>
+      <h3><em>Sur rendez-vous au</em> <br><strong>14 rue Pierre Loti ‡ Brest<br>02 98 46 30 95<br>06 43 87 76 59<br>florencejaulin@gmail.com</strong></em> </h3>
     </div>
   </div>
   
   <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Liens</h3>
 <p>
  
-C√©line Guern, restauratrice de tableaux pr√®s de Brest  :  <a href="http://www.restaurationdetableaux-finistere.com"> www.restaurationdetableaux-finistere.com</a><br>
-Site de La F√©d√©ration Fran√ßaise des Conservateurs-Restaurateurs :  <a href="http://www.ffcr.fr">www.ffcr.fr</a><br>
-D√©l√©gation r√©gionale de la Fondation du Patrimoine :  <a href="https://www.fondation-patrimoine.org/fondation-du-patrimoine/bretagne/presentation">www.fondation-patrimoine.org</a><br>
-Institut National des M√©tiers d'Art  :  <a href="http://www.institut-metiersdart.org/">www.institut-metiersdart.org/</a><br>
+CÈline Guern, restauratrice de tableaux prËs de Brest  :  <a href="http://www.restaurationdetableaux-finistere.com"> www.restaurationdetableaux-finistere.com</a><br>
+Site de La FÈdÈration FranÁaise des Conservateurs-Restaurateurs :  <a href="http://www.ffcr.fr">www.ffcr.fr</a><br>
+DÈlÈgation rÈgionale de la Fondation du Patrimoine :  <a href="https://www.fondation-patrimoine.org/fondation-du-patrimoine/bretagne/presentation">www.fondation-patrimoine.org</a><br>
+Institut National des MÈtiers d'Art  :  <a href="http://www.institut-metiersdart.org/">www.institut-metiersdart.org/</a><br>
 </p>
 <br><br><br>
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-16">
-  <p>ATELIER DE RESTAURATION DE SCULPTURES ET D'OBJETS D'ART <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green"></a>
-  florencejaulin@gmail.com<br>06 43 87 76 59<br>Photos Florence Jaulin, tous droits r√©serv√©s.</p>
+  <p>ATELIER DE RESTAURATION DE SCULPTURES  <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green"></a>
+  florencejaulin@gmail.com<br>06 43 87 76 59<br>Photos Florence Jaulin, tous droits rÈservÈs.</p>
 </footer>
 
 
